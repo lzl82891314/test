@@ -1,0 +1,131 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "0,0": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowCircleUserPicture": true,
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "10,17": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "ImagePath": "fgc_built-in-page-logo.png"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "10,17": 0,
+      "25,23": 0,
+      "25,24": 0,
+      "25,25": 0,
+      "25,26": 0,
+      "25,27": 0,
+      "25,28": 0,
+      "25,29": 0,
+      "25,30": 0,
+      "25,31": 0,
+      "25,32": 0,
+      "25,33": 0,
+      "25,34": 0,
+      "25,35": 0,
+      "25,36": 0,
+      "25,37": 0,
+      "25,38": 0,
+      "25,39": 0,
+      "25,40": 0,
+      "25,41": 0,
+      "25,42": 0,
+      "26,23": 0,
+      "26,24": 0,
+      "26,25": 0,
+      "26,26": 0,
+      "26,27": 0,
+      "26,28": 0,
+      "26,29": 0,
+      "26,30": 0,
+      "26,31": 0,
+      "26,32": 0,
+      "26,33": 0,
+      "26,34": 0,
+      "26,35": 0,
+      "26,36": 0,
+      "26,37": 0,
+      "26,38": 0,
+      "26,39": 0,
+      "26,40": 0,
+      "26,41": 0,
+      "26,42": 0,
+      "27,23": 0,
+      "27,24": 0,
+      "27,25": 0,
+      "27,26": 0,
+      "27,27": 0,
+      "27,28": 0,
+      "27,29": 0,
+      "27,30": 0,
+      "27,31": 0,
+      "27,32": 0,
+      "27,33": 0,
+      "27,34": 0,
+      "27,35": 0,
+      "27,36": 0,
+      "27,37": 0,
+      "27,38": 0,
+      "27,39": 0,
+      "27,40": 0,
+      "27,41": 0,
+      "27,42": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "25,23,3,20",
+    "10,17,10,19"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//D/gGPPwZaljY8VTILl/k85ZRmpF446865Tt7uNK5xiQ07ypCV/rW29Jk1KtPMAAbIHG+Xs56clyfg/LmpSAGyd88PuKzYTJSa7vr62kf4aoIeqSxuaC4WNz/nuBLGMHd74G978W1r7HxDJ0hvl+nJ05WuNYffoIDqfJy8c/uSFE9c7z7+wkqUQpFJ4ek/xWDSLWQT2TWoxtgumCrwjqfJmwZ/BEa4vUfC0LqJ3n4HR4/obID29g1hM8DG8E79I9UO+tqgKSlwPDZeiZatEB7W6DwEyif4jihlbhDCJJY+lBCt5sFaaXKKQPeFRnAPi5qIHALGF/WmgYkm0qdv7nP5M5FqiKIsplcOihs+SWkooLpyfJMa7HDy4r9aFnqD2GgRY0tch0TpPFrcSbrY1xubRifBwpU231OkzPWi3SZeD6Vc7Udlc+IK/tf29KlpitrE0SXEdv4JGtyfr8MahtDiSiRL+nlZ9ugROnTdk2uKIiE2ZV9Xk5xRZkFSX1FBiw02HGHVSNorA6xMAXQXUOv+4/cafSpehRy29W90ibMfT5IJf2QjdLiGvyjdXJlrYa/DesNpqJbB+coCQ/AKY0FD5/Qmj+1u2nkbzeNp8j6q/mBAPvsTmWzKj6w47obFgF5KItcYT1YnoR+QLIIp+Tf5K26TQwFQGpNnjBd6X+a1Qw9htdMU2/gwHXv8TXqIEVUfYfJ3OKqJLkoQEFnFGck/DjLj82/xbaOhZvgwo3WQuPYVYQqupMoofG64ejpZ0QZkPlURBCTjjh0cOOaoAPUkErbq9IukpZXnyBgqs4J/7dMOD7olRkUbWjWHJXAms2X9oRx7OPN3i42KOHd1LJPlF/bJ36Bdr8ardY/c9lLUsog5Gj+0SD9qRxBk6nCIqxfrfOJFhXPIyM3OPPTw9Rcdw==|920
